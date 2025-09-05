@@ -93,27 +93,34 @@ void loop(){
 https://github.com/user-attachments/assets/9d9011a1-4fc4-4989-9f7b-5fdd1a173b9a
 
 ## Result:
-re in C = 24.8	 Temperature in F = 76.6
-Humidity: 60%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 37%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
+
 Raw Value = 153	 milli volts = 748	 Temperature in C = 24.8	 Temperature in F = 76.6
 Humidity: 36%
-Raw Value = 153	 milli volts = 748	
+
 
 Thus, Fan Speed Controller System was successfully executed using Arduino in TinkeCad
 
